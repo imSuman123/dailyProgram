@@ -25,7 +25,7 @@ scanf("%f\n%f",&f,&g);
 printf("Multiplication of Given two Numbers is %f",f*g);
 }
 else if (a==4){
-printf("Enter two Numbers\n");
+printf("Enter two correct Numbers\n");
 scanf("%f\n%f",&h,&i);
 printf("Division of first Number by Second Number is %f",h/i);
     }
